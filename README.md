@@ -1,4 +1,4 @@
-
+## Implementation made by: Cristoval Neo Sasono - 2602158235
 
 ## Let's first implement a sign up modal box in jQuery!
 
